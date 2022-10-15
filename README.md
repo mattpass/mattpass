@@ -1,3 +1,16 @@
+<!--
+TODO:
+- Perfect README.md profile as much as possible
+- Update details, eg bio
+- Revise list of repos (public & private)
+- Starred repos list (to show interests)
+- Connect with me by GitHub? (we're already on repo?)
+- Connect with me by email? (Spam?)
+- Connect with me by Slack? (setup own channel?)
+- Create IM app at .dev domain?
+- Look at https://github.com/anuraghazra/github-readme-stats
+-->
+
 ## Hi there 👋, I'm Matt
 
 #### A full-stack dev with a love of JavaScript, Node, React, serverless and the cloud
