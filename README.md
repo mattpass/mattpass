@@ -12,8 +12,12 @@
 
 <!--
 TODO:
-- Top repos
-- Activity chart
+https://github.com/anuraghazra/github-readme-stats
+https://reheader.glitch.me/
+https://github.com/maguowei/starred
+
+Inspiration:
+https://zzetao.github.io/awesome-github-profile/
 
 **mattpass/mattpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
