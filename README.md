@@ -3,8 +3,9 @@
 #### A full-stack dev with a love of JavaScript, Node, React, serverless and the cloud
 
 - 😄 I'm a full-stack dev with 23+ years experience
-- 🔭 I’m currently working on [CyberStart](https://cyberstart.com)
+- 🚀 I’m currently working on [CyberStart](https://cyberstart.com)
 - 💬 Ask me about [ICEcoder](https://icecoder.net)
+- 🖥️ See more work on my [Portfolio](https://mattpass.com)
 - 🌱 I’m currently learning Java, C and Rust
 - 👯 I’m looking to collaborate on Node & React projects
 - 📫 How to reach me: [Twitter](https://twitter.com/mattpass)
@@ -96,3 +97,18 @@ TODO:
   </td>
   </tr>
 </table>
+
+<!--
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mattpass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
+-->
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/mattpass/icecoder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=icecoder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mattpass/dotfiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<br><br><br><br><br><br>
+
+<div width="100%" align="center"><a href="https://github.com/mattpass/CodeMirror" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=CodeMirror&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mattpass/dirTree" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=dirTree&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
