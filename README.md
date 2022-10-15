@@ -11,8 +11,8 @@
 - <img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
 ### Connect with me:
-<a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
-<a href="https://twitter.com/mattpass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/mattpass" height="30"></a>
+<a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001530-bf44295f-1e62-4339-b98a-06edeefc2336.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" height="30"></a>
 
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass"></a>
 
@@ -38,9 +38,9 @@ Soon - TypeScript:
 <img src="https://user-images.githubusercontent.com/1311155/195989193-0e5ad278-5a80-4523-9031-39f923f9df2f.svg" alt="Jest" title="Jest" height="40" />
 <img src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/1311155/195989369-dc764c61-1137-473f-b61f-6a08ec419637.svg" alt="PHP" title="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/196001646-78f4420b-bf5e-4c0f-97fc-51fca5708764.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/196001631-9d8986d0-0d74-40ec-b25b-4acfa70b633d.svg" alt="sass" width="40" height="40"/>
 <!--
 Soon - Tailwind:
 <img src="https://user-images.githubusercontent.com/1311155/195989445-75e87e8a-f6ee-48b4-ae84-352313d1833d.svg" alt="Tailwind" title="Tailwind" height="40">
