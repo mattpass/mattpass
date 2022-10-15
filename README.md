@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Matt
+## Hi there 👋, I'm Matt
 
 #### A full-stack dev with a love of JavaScript, Node, React, serverless and the cloud
 
@@ -6,40 +6,15 @@
 - 🚀 I’m currently working on [CyberStart](https://cyberstart.com)
 - 💬 Ask me about [ICEcoder](https://icecoder.net)
 - 🖥️ See more work on my [Portfolio](https://mattpass.com)
+- ☢ I'm a [GPEN Certified Pen Tester](https://www.credly.com/badges/02de49d3-dd60-4257-a2c7-8cc6cdd034ee/) & [GIAC Advisory Board](https://www.credly.com/badges/d16d73f1-0581-4248-95c7-58b2c5e0e0b2) member
 - 🌱 I’m currently learning Java, C and Rust
-- 👯 I’m looking to collaborate on Node & React projects
-- 📫 How to reach me: [Twitter](https://twitter.com/mattpass)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
-<!--
-TODO:
-https://github.com/anuraghazra/github-readme-stats
-https://reheader.glitch.me/
-https://github.com/maguowei/starred
+### Connect with me:
+<a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/mattpass" height="30"></a>
 
-Inspiration:
-https://zzetao.github.io/awesome-github-profile/
-
-**mattpass/mattpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattpass" alt="mattpass" /></a> </p>
--->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <table border="0" style="border:0">
-    <tr valign="bottom">
-      <td>
-        <a href="https://linkedin.com/in/matt-pass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matt-pass" height="30" width="40" /></a>
-  <a href="https://twitter.com/mattpass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattpass" height="30" width="40" /></a>
-      </td>
-      <td>
-          <a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass" /></a>
-      </td>
-    </tr>
-  </table>
-</p>
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass" /></a>
 
 <table>
 <tr valign="top">
