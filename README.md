@@ -44,22 +44,17 @@ Soon - Tailwind:
 --->
 
 #### Dev Ops
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196002522-802002db-5668-4d3f-b2a7-3b709dc67e00.svg" alt="aws" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40">
-<!--
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
--->
-  
+
 #### Other
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196002681-3cd472a8-cad4-4cb2-aed4-7344e1315707.svg" alt="bash" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196002617-a6480bbf-ee7b-479b-a2ff-142ac866ff35.svg" alt="git" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196002798-14371b63-f3c4-4b3e-8db4-2a1d1cbfac10.svg" alt="puppeteer" width="40" height="40">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40">
-<imgalign="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
-<!--
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
--->
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 
 ### GitHub Stats:
