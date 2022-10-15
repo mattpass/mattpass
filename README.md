@@ -82,9 +82,3 @@ Soon - Tailwind:
 <p align="left"> <a href="https://www.github.com/mattpass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ### Badges
 -->
-
-### Top Repositories
-
-<a href="https://github.com/mattpass/icecoder"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=icecoder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a><a href="https://github.com/mattpass/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
-
-<a href="https://github.com/mattpass/CodeMirror"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=CodeMirror&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a><a href="https://github.com/mattpass/dirTree"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=dirTree&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
