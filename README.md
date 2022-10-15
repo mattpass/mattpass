@@ -8,48 +8,49 @@
 - 🖥️ See more work on my [Portfolio](https://mattpass.com)
 - ☢ I'm a [GPEN Certified Pen Tester](https://www.credly.com/badges/02de49d3-dd60-4257-a2c7-8cc6cdd034ee/) & [GIAC Advisory Board](https://www.credly.com/badges/d16d73f1-0581-4248-95c7-58b2c5e0e0b2) member
 - 🌱 I’m currently learning Java, C and Rust
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
+- <img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
 ### Connect with me:
 <a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/mattpass" height="30"></a>
 
-<a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass" /></a>
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass"></a>
 
 <table>
 <tr valign="top">
-<td style="width: 50%" width="50%">
+<td width="50%">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<h4>Front-end</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" />
+
+<h4>Front End</h4>
+<img src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript"  width="40" height="40"> 
   
-<h4>Back-end</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <!--
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
-  
-<h4>Dev-Ops</h4>
+<h4>Back End</h4>
+<img src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/195988972-32be7d05-9987-4cf6-991b-ccc988818a7d.svg" alt="React" title="React" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/195989130-df4d9e6e-750f-4153-b0ed-e144403ef1ca.svg" alt="redux" width="40" height="40"/>
+<!--
+Soon - TypeScript:
+<img src="https://user-images.githubusercontent.com/1311155/195989103-63431c52-6a93-4ed5-8d87-4a9ac0cdf99b.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+-->
+<img src="https://user-images.githubusercontent.com/1311155/195989064-2997152a-872d-4bb0-a0ce-1b07832d6cb3.svg" alt="Webpack" title="Webpack" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/195989193-0e5ad278-5a80-4523-9031-39f923f9df2f.svg" alt="Jest" title="Jest" height="40" />
+<img src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/1311155/195989369-dc764c61-1137-473f-b61f-6a08ec419637.svg" alt="PHP" title="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<!--
+Soon - Tailwind:
+<img src="https://user-images.githubusercontent.com/1311155/195989445-75e87e8a-f6ee-48b4-ae84-352313d1833d.svg" alt="Tailwind" title="Tailwind" height="40">
+--->
+
+<h4>Dev Ops</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 -->
   
   <h4>Other</h4>
@@ -63,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
   -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
+
 
 </td><td style="width: 50%" width="50%">
   
