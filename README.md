@@ -16,67 +16,56 @@
 
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass"></a>
 
-<table>
-<tr valign="top">
-<td width="50%">
 <h3 align="left">Languages and Tools:</h3>
 
-<h4>Front End</h4>
-<img src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40">
-<img src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40">
-<img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript"  width="40" height="40"> 
-  
-<h4>Back End</h4>
-<img src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/195988972-32be7d05-9987-4cf6-991b-ccc988818a7d.svg" alt="React" title="React" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/195989130-df4d9e6e-750f-4153-b0ed-e144403ef1ca.svg" alt="redux" width="40" height="40"/>
+#### Front End
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript" width="40" height="40"> 
+
+#### Back End
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195988972-32be7d05-9987-4cf6-991b-ccc988818a7d.svg" alt="React" title="React" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195989130-df4d9e6e-750f-4153-b0ed-e144403ef1ca.svg" alt="redux" width="40" height="40">
 <!--
 Soon - TypeScript:
 <img src="https://user-images.githubusercontent.com/1311155/195989103-63431c52-6a93-4ed5-8d87-4a9ac0cdf99b.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
 -->
-<img src="https://user-images.githubusercontent.com/1311155/195989064-2997152a-872d-4bb0-a0ce-1b07832d6cb3.svg" alt="Webpack" title="Webpack" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/195989193-0e5ad278-5a80-4523-9031-39f923f9df2f.svg" alt="Jest" title="Jest" height="40" />
-<img src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/195989369-dc764c61-1137-473f-b61f-6a08ec419637.svg" alt="PHP" title="PHP" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/196001646-78f4420b-bf5e-4c0f-97fc-51fca5708764.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/1311155/196001631-9d8986d0-0d74-40ec-b25b-4acfa70b633d.svg" alt="sass" width="40" height="40"/>
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195989064-2997152a-872d-4bb0-a0ce-1b07832d6cb3.svg" alt="Webpack" title="Webpack" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195989193-0e5ad278-5a80-4523-9031-39f923f9df2f.svg" alt="Jest" title="Jest" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/195989369-dc764c61-1137-473f-b61f-6a08ec419637.svg" alt="PHP" title="PHP" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196001646-78f4420b-bf5e-4c0f-97fc-51fca5708764.svg" alt="mysql" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/196001631-9d8986d0-0d74-40ec-b25b-4acfa70b633d.svg" alt="sass" width="40" height="40">
 <!--
 Soon - Tailwind:
 <img src="https://user-images.githubusercontent.com/1311155/195989445-75e87e8a-f6ee-48b4-ae84-352313d1833d.svg" alt="Tailwind" title="Tailwind" height="40">
 --->
 
-<h4>Dev Ops</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <!--
+#### Dev Ops
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40">
+<!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 -->
   
-  <h4>Other</h4>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <!--
+#### Other
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40">
+<imgalign="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+<!--
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-  -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 
-
-</td><td style="width: 50%" width="50%">
-  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="mattpass" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="mattpass" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="mattpass" /></p>
-  
-  </td>
-  </tr>
-</table>
+### GitHub Stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="mattpass">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="mattpass">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="mattpass">
 
 <!--
 ### Socials
@@ -85,7 +74,7 @@ Soon - Tailwind:
 ### Badges
 -->
 
-<b>Top Repositories</b>
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/mattpass/icecoder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=icecoder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mattpass/dotfiles" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mattpass&repo=dotfiles&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
