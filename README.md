@@ -8,6 +8,7 @@ TODO:
 - Connect with me by email? (Spam?)
 - Connect with me by Slack? (setup own channel?)
 - Create IM app at .dev domain?
+- Get PDF, website, LinkedIn and this profile all in-sync
 - Look at https://github.com/anuraghazra/github-readme-stats
 -->
 
