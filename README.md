@@ -5,7 +5,6 @@ TODO:
 - Perfect README.md profile as much as possible
 - Revise list of repos (public & private)
 - Starred repos list (to show interests)
-- Connect with me by email? (Spam?)
 - Connect with me by Slack? (setup own channel?)
 - Create IM app at .dev domain?
 - Get PDF, website, LinkedIn and this profile all in-sync
@@ -26,7 +25,8 @@ TODO:
 
 ### Connect with me:
 <a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001530-bf44295f-1e62-4339-b98a-06edeefc2336.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
-<a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" height="30"></a>
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" height="30"></a> &nbsp;
+<a href="mailto:matt@mattpass.com" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196052067-6652fe9b-e4c9-4cc3-9adc-fe0d4d343416.svg" alt="matt@mattpass.com" height="30"></a>
 
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass"></a>
 
