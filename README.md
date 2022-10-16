@@ -1,10 +1,10 @@
 <!--
+Icons: https://devicon.dev
+
 TODO:
 - Perfect README.md profile as much as possible
-- Update details, eg bio
 - Revise list of repos (public & private)
 - Starred repos list (to show interests)
-- Connect with me by GitHub? (we're already on repo?)
 - Connect with me by email? (Spam?)
 - Connect with me by Slack? (setup own channel?)
 - Create IM app at .dev domain?
@@ -50,7 +50,7 @@ Soon - TypeScript:
 <img align="left" src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40">
 <img align="left" src="https://user-images.githubusercontent.com/1311155/195989369-dc764c61-1137-473f-b61f-6a08ec419637.svg" alt="PHP" title="PHP" width="40" height="40">
 <img align="left" src="https://user-images.githubusercontent.com/1311155/196001646-78f4420b-bf5e-4c0f-97fc-51fca5708764.svg" alt="mysql" width="40" height="40">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196051725-98a351b4-d144-44ba-803f-adf132dfb4a6.svg" alt="redis" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/1311155/196001631-9d8986d0-0d74-40ec-b25b-4acfa70b633d.svg" alt="sass" width="40" height="40">
 <!--
 Soon - Tailwind:
@@ -59,17 +59,18 @@ Soon - Tailwind:
 
 #### Dev Ops
 <img align="left" src="https://user-images.githubusercontent.com/1311155/196002522-802002db-5668-4d3f-b2a7-3b709dc67e00.svg" alt="aws" width="40" height="40">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196051433-7a305778-e603-4ef8-813e-583bb3a7a384.svg" alt="docker" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/196051772-68b8129e-70ce-49f5-aa14-f99d28f1f704.svg" alt="nginx" width="40" height="40">
 
 #### Other
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
 <img align="left" src="https://user-images.githubusercontent.com/1311155/196002681-3cd472a8-cad4-4cb2-aed4-7344e1315707.svg" alt="bash" width="40" height="40">
 <img align="left" src="https://user-images.githubusercontent.com/1311155/196002617-a6480bbf-ee7b-479b-a2ff-142ac866ff35.svg" alt="git" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196051245-05e6033d-429c-4687-952d-6adca491bb74.svg" alt="GitHub" width="40" height="40">
 <img align="left" src="https://user-images.githubusercontent.com/1311155/196002798-14371b63-f3c4-4b3e-8db4-2a1d1cbfac10.svg" alt="puppeteer" width="40" height="40">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196051863-07642031-fe22-4a8a-a3f0-f22991be4d2a.svg" alt="electron" width="40" height="40">
+<img align="left" src="https://user-images.githubusercontent.com/1311155/196051835-af64b675-f094-4f96-901b-69332d4844e6.svg" alt="c" width="40" height="40">
+<img src="https://user-images.githubusercontent.com/1311155/196051793-17d51295-1e49-465b-bb1d-f655765db7e7.svg" alt="photoshop" width="40" height="40"/>
 
 ### GitHub Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="mattpass">
