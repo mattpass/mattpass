@@ -73,5 +73,5 @@ Soon - Tailwind:
 
 ### GitHub Stats:
 <picture><img src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="Matt Pass' GitHub Stats" title="Matt Pass' GitHub Stats"></picture>
-<picture><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="Matt Pass' contributions"></picture>
-<picture><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="Matt Pass' Most Used Languages"></picture>
+<picture><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="Matt Pass' contributions" title="Matt Pass' contributions"></picture>
+<picture><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="Matt Pass' Most Used Languages" title="Matt Pass' Most Used Languages"></picture>
