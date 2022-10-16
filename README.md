@@ -2,7 +2,6 @@
 Icons: https://devicon.dev
 
 TODO:
-- Perfect README.md profile as much as possible
 - Revise list of repos (public & private)
 - Starred repos list (to show interests)
 - Connect with me by Slack? (setup own channel?)
@@ -24,18 +23,18 @@ TODO:
 - <img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
 ### Connect with me:
-<a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001530-bf44295f-1e62-4339-b98a-06edeefc2336.svg" alt="linkedin.com/in/matt-pass" height="30"></a> &nbsp;
-<a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" height="30"></a> &nbsp;
-<a href="mailto:matt@mattpass.com" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196052067-6652fe9b-e4c9-4cc3-9adc-fe0d4d343416.svg" alt="matt@mattpass.com" height="30"></a>
+<a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001530-bf44295f-1e62-4339-b98a-06edeefc2336.svg" alt="linkedin.com/in/matt-pass" title="LinkedIn" height="30"></a> &nbsp;
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" title="Twitter" height="30"></a> &nbsp;
+<a href="mailto:matt@mattpass.com" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196052067-6652fe9b-e4c9-4cc3-9adc-fe0d4d343416.svg" alt="matt@mattpass.com" title="Email" height="30"></a>
 
-<a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="mattpass"></a>
+<a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="twitter.com/mattpass" title="Twitter follower count"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
 #### Front End
-<img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40">
-<img align="left" src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40">
-<img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript" width="40" height="40"> 
+<a nohref><img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40"></a>
+<a nohref><img align="left" src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40"></a>
+<a nohref><img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript" width="40" height="40"></a>
 
 #### Back End
 <img align="left" src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40">
