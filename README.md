@@ -32,9 +32,9 @@ TODO:
 <h3 align="left">Languages and Tools:</h3>
 
 #### Front End
-<a nohref><img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40"></a>
-<a nohref><img align="left" src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40"></a>
-<a nohref><img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript" width="40" height="40"></a>
+<a href="#"><img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40"></a>
+<a href="#"><img align="left" src="https://user-images.githubusercontent.com/1311155/195988794-ba74e374-7564-4dce-b52a-5e9e1891f467.svg" alt="CSS3" title="CSS3" width="40" height="40"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" title="JavaScript" width="40" height="40"></a>
 
 #### Back End
 <img align="left" src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40">
