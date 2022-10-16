@@ -73,7 +73,7 @@ Soon - Tailwind:
 <img src="https://user-images.githubusercontent.com/1311155/196051793-17d51295-1e49-465b-bb1d-f655765db7e7.svg" alt="photoshop" width="40" height="40"/>
 
 ### GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="mattpass">
+<img src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="mattpass">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="mattpass">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="mattpass">
 
