@@ -16,20 +16,20 @@ TODO:
 
 - 😄 I'm a full-stack dev with 23+ years experience
 - 🚀 I’m currently working on [CyberStart](https://cyberstart.com)
-- 💬 Ask me about [ICEcoder](https://icecoder.net)
+- ❄️ Ask me about [ICEcoder](https://icecoder.net)
 - 🖥️ See more work on my [Portfolio](https://mattpass.com)
 - ☢ I'm a [GPEN Certified Pen Tester](https://www.credly.com/badges/02de49d3-dd60-4257-a2c7-8cc6cdd034ee/) & [GIAC Advisory Board](https://www.credly.com/badges/d16d73f1-0581-4248-95c7-58b2c5e0e0b2) member
 - 🌱 I’m currently learning Java, C and Rust
 - <img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
-### Connect with me:
+### 💬 Connect with me:
 <a href="https://linkedin.com/in/matt-pass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001530-bf44295f-1e62-4339-b98a-06edeefc2336.svg" alt="linkedin.com/in/matt-pass" title="LinkedIn" height="30"></a> &nbsp;
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196001542-90f88f51-35de-4454-ace9-a19294d6df2d.svg" alt="twitter.com/mattpass" title="Twitter" height="30"></a> &nbsp;
 <a href="mailto:matt@mattpass.com" target="blank"><img src="https://user-images.githubusercontent.com/1311155/196052067-6652fe9b-e4c9-4cc3-9adc-fe0d4d343416.svg" alt="matt@mattpass.com" title="Email" height="30"></a>
 
 <a href="https://twitter.com/mattpass" target="blank"><img src="https://img.shields.io/twitter/follow/mattpass?logo=twitter&style=for-the-badge" alt="twitter.com/mattpass" title="Twitter follower count"></a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 #### Front End
 <a href="#front-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195988761-24d4ae8b-c975-4af1-b45b-89d11492f6a6.svg" alt="HTML5" title="HTML5" width="40" height="40"></a>
@@ -40,10 +40,7 @@ TODO:
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195988610-96768970-7b7c-48b7-b9ba-94f0c993e807.svg" alt="Node JS" title="Node JS" width="40" height="40"></a>
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195988972-32be7d05-9987-4cf6-991b-ccc988818a7d.svg" alt="React" title="React" width="40" height="40"></a>
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195989130-df4d9e6e-750f-4153-b0ed-e144403ef1ca.svg" alt="Redux" title="Redux" width="40" height="40"></a>
-<!--
-Soon - TypeScript:
-<a href="#back-end"><img src="https://user-images.githubusercontent.com/1311155/195989103-63431c52-6a93-4ed5-8d87-4a9ac0cdf99b.svg" alt="TypeScript" title="TypeScript" width="40" height="40"></a>
--->
+<a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195989103-63431c52-6a93-4ed5-8d87-4a9ac0cdf99b.svg" alt="TypeScript" title="TypeScript" width="40" height="40"></a>
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195989064-2997152a-872d-4bb0-a0ce-1b07832d6cb3.svg" alt="Webpack" title="Webpack" width="40" height="40"></a>
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195989193-0e5ad278-5a80-4523-9031-39f923f9df2f.svg" alt="Jest" title="Jest" height="40"></a>
 <a href="#back-end"><img align="left" src="https://user-images.githubusercontent.com/1311155/195989322-6ed51f97-b631-48cb-bab2-c0a7ae1bd07c.svg" alt="Python" title="Python" width="40" height="40"></a>
@@ -72,7 +69,7 @@ Soon - Tailwind:
 <a href="#other"><img align="left" src="https://user-images.githubusercontent.com/1311155/196051835-af64b675-f094-4f96-901b-69332d4844e6.svg" alt="C" title="C" width="40" height="40"></a>
 <a href="#other"><img src="https://user-images.githubusercontent.com/1311155/196051793-17d51295-1e49-465b-bb1d-f655765db7e7.svg" alt="Photoshop" title="Photoshop" width="40" height="40"></a>
 
-### GitHub Stats:
+### 📈 GitHub Stats:
 <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api?username=mattpass&show_icons=true&locale=en" alt="Matt Pass' GitHub Stats" title="Matt Pass' GitHub Stats"></a>
 <a href="#github-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattpass&" alt="Matt Pass' contributions" title="Matt Pass' contributions"></a>
 <a href="#github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattpass&show_icons=true&locale=en&layout=compact" alt="Matt Pass' Most Used Languages" title="Matt Pass' Most Used Languages"></a>
