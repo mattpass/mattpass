@@ -4,6 +4,7 @@ Icons: https://devicon.dev
 TODO:
 - Revise list of repos (public & private)
 - Starred repos list (to show interests)
+- Work Experiencce section - last 3 roles, to right of each list responsibilities and languages
 - Connect with me by Slack? (setup own channel?)
 - Create IM app at .dev domain?
 - Get PDF, website, LinkedIn and this profile all in-sync
