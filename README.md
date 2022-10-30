@@ -7,7 +7,6 @@ TODO:
 - Connect with me by Slack? (setup own channel?)
 - Create IM app at .dev domain?
 - Get PDF, website, LinkedIn and this profile all in-sync
-- Look at https://github.com/anuraghazra/github-readme-stats
 -->
 
 ## Hi there 👋, I'm Matt
@@ -58,6 +57,7 @@ Soon - Tailwind:
 
 #### Dev Ops
 <a href="#dev-ops"><img align="left" src="https://user-images.githubusercontent.com/1311155/196053104-5f41de69-f241-4050-8fe2-03a0b994c90f.svg" alt="AWS" title="AWS" width="40" height="40"></a>
+<a href="#dev-ops"><img align="left" src="https://user-images.githubusercontent.com/1311155/198881348-c763c4bf-dce3-4db9-9d1d-b0b8fd280d2f.svg" alt="Digital Ocean" title="Digital Ocean" width="40" height="40"></a>
 <a href="#dev-ops"><img align="left" src="https://user-images.githubusercontent.com/1311155/196051433-7a305778-e603-4ef8-813e-583bb3a7a384.svg" alt="Docker" title="Docker" width="40" height="40"></a>
 <a href="#dev-ops"><img src="https://user-images.githubusercontent.com/1311155/196051772-68b8129e-70ce-49f5-aa14-f99d28f1f704.svg" alt="Nginx" title="Nginx" width="40" height="40"></a>
 
