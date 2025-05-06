@@ -12,14 +12,14 @@ TODO:
 
 ## Hi there 👋, I'm Matt
 
-#### A full-stack dev with a love of JavaScript, Node, React, serverless and the cloud
+#### A fulltack dev with a love of JavaScript, Node, React, serverless and the cloud
 
-- 😄 I'm a full-stack dev with 25+ years experience
+- 😄 I'm a full-stack dev with 26+ years experience
 - 🚀 I worked on [CyberStart](https://cyberstart.com)
 - ❄️ Ask me about [ICEcoder](https://icecoder.net)
 - 🖥️ See more work on my [Portfolio](https://mattpass.com)
 - ☢ I'm a [GPEN Certified Pen Tester](https://www.credly.com/badges/02de49d3-dd60-4257-a2c7-8cc6cdd034ee/) & [GIAC Advisory Board](https://www.credly.com/badges/d16d73f1-0581-4248-95c7-58b2c5e0e0b2) member
-- 🌱 I’m currently learning Java, C and Rust
+- 🌱 I’m currently learning Go and Java
 - <img src="https://user-images.githubusercontent.com/1311155/195987938-92c0e248-e0e7-46fa-b9f7-9da927af8633.svg" alt="JavaScript" height="16"/> However, my passion is JS, Node & React based projects
 
 ### 💬 Connect with me:
