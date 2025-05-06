@@ -14,7 +14,7 @@ TODO:
 
 #### I'm a Fulltack Developer with a love of JavaScript, Node, React, serverless and the cloud
 
-- 😄 I'm a full-stack dev with 26+ years experience
+- 😄 I'm a developer with a wide range of skills with 26+ years experience
 - 🚀 I worked on [CyberStart](https://cyberstart.com)
 - ❄️ Ask me about [ICEcoder](https://icecoder.net)
 - 🖥️ See more work on my [Portfolio](https://mattpass.com)
